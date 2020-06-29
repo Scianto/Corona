@@ -3,7 +3,6 @@
 #corona live cases updated daily
 #author : sci_anto
 #git clone https://github.com/Scianto/Corona
-
 printf "\e[31m  ██████╗ ██████╗ ██████╗  ██████╗ ███╗   ██╗ █████╗             \e[0m\n"
 printf "\e[31m ██╔════╝██╔═══██╗██╔══██╗██╔═══██╗████╗  ██║██╔══██╗    \e[0m\n"
 printf "\e[31m ██║     ██║   ██║██████╔╝██║   ██║██╔██╗ ██║███████║             \e[0m\n"
